@@ -48,3 +48,8 @@ __queuestorage__
 __azurite_db*__.json
 
 deploy/*.publishsettings
+
+# San Pablo
+user_data_cart/
+salida.csv
+.DS_Store
